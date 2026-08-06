@@ -1,12 +1,22 @@
+// Imports
 import fs from "node:fs";
 import path from "node:path";
 import { csvParse } from "d3";
 
+// Paths & Configs
 const sourceFile = path.join(
   process.cwd(),
   "data-source",
   "where-the-hours-go",
   "atussum_2025.dat",
+);
+
+const outputFile = path.join(
+  process.cwd(),
+  "public",
+  "data",
+  "where-the-hours-go",
+  "time-use-averages.json",
 );
 
 const activityCategories = {
@@ -30,6 +40,7 @@ const activityCategories = {
   50: "Unable to code",
 };
 
+// Read & Parse
 const rawData = fs.readFileSync(sourceFile, "utf8");
 const rows = csvParse(rawData);
 
@@ -38,11 +49,10 @@ const activityColumns = rows.columns.filter((column) =>
 );
 
 console.log(`Loaded ${rows.length} respondents.`);
-console.log(Object.keys(rows[0]).slice(0, 15));
 
 console.log(`Found ${activityColumns.length} activity columns.`);
-console.log(activityColumns.slice(0, 10));
 
+// Helper functions
 function getCategoryMinutes(row, categoryCode) {
   return activityColumns
     .filter((column) => column.slice(1, 3) === categoryCode)
@@ -69,6 +79,60 @@ function summarizeRespondent(row) {
   };
 }
 
+// Main processing flow
 const respondents = rows.map(summarizeRespondent);
+const weekdayRespondents = respondents.filter(
+  (respondent) => respondent.diaryDay >= 2 && respondent.diaryDay <= 6,
+);
+const weekendRespondents = respondents.filter(
+  (respondent) => respondent.diaryDay === 1 || respondent.diaryDay === 7,
+);
+
+console.log(`Weekday respondents: ${weekdayRespondents.length}`);
+console.log(`Weekend respondents: ${weekendRespondents.length}`);
+
+const weekdayAverage = calculateWeightedAverages(weekdayRespondents);
+const weekendAverage = calculateWeightedAverages(weekendRespondents);
+
+const overallAverage = calculateWeightedAverages(respondents);
 
 console.log(`Summarized ${respondents.length} respondents.`);
+
+const overallAverageTotal = overallAverage.reduce(
+  (total, activity) => total + activity.averageMinutes,
+  0,
+);
+
+console.log(`Overall average total: ${overallAverageTotal}`);
+
+const comparisonData = {
+  overall: overallAverage,
+  weekday: weekdayAverage,
+  weekend: weekendAverage,
+};
+
+//Validation & output
+fs.writeFileSync(outputFile, JSON.stringify(comparisonData, null, 2), "utf8");
+
+console.log(`Wrote processed data to ${outputFile}`);
+
+function calculateWeightedAverages(group) {
+  const totalWeight = group.reduce(
+    (total, respondent) => total + respondent.weight,
+    0,
+  );
+
+  return Object.values(activityCategories).map((categoryName) => {
+    const weightedMinutes = group.reduce((total, respondent) => {
+      const activity = respondent.activities.find(
+        (item) => item.category === categoryName,
+      );
+      return total + activity.minutes * respondent.weight;
+    }, 0);
+
+    return {
+      category: categoryName,
+      averageMinutes: Math.round((weightedMinutes / totalWeight) * 10) / 10,
+    };
+  });
+}
