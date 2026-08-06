@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Raw public datasets
+/data-source/where-the-hours-go/*
+!/data-source/where-the-hours-go/README.md
