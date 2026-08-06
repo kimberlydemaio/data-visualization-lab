@@ -1,3 +1,5 @@
+import TimeUseChart from "./TimeUseChart";
+
 export default function WhereTheHoursGoPage() {
   return (
     <main>
@@ -9,6 +11,8 @@ export default function WhereTheHoursGoPage() {
         An interactive exploration of how work, care, rest, and daily life
         compete for the same 24 hours.
       </p>
+
+      <TimeUseChart />
     </main>
   );
 }
