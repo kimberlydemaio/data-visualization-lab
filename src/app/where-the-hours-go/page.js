@@ -2,7 +2,7 @@ import TimeUseChart from "./TimeUseChart";
 
 export default function WhereTheHoursGoPage() {
   return (
-    <main>
+    <main className="px-6 py-8">
       <p>American Time Use Survey</p>
 
       <h1>Where the Hours Go</h1>
