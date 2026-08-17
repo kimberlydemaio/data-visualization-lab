@@ -22,6 +22,9 @@ export default function TimeUseChart() {
   const maxMinutes = selectedData
     ? d3.max(selectedData, (item) => item.averageMinutes)
     : 0;
+  const totalHours = selectedData
+    ? d3.sum(selectedData, (item) => item.averageMinutes) / 60
+    : 0;
   const widthScale = d3.scaleLinear().domain([0, maxMinutes]).range([0, 100]);
 
   // Page output
@@ -32,19 +35,31 @@ export default function TimeUseChart() {
           {/* View selector */}
           <div className="mt-6 flex w-fit gap-1 rounded-full bg-gray-100 p-1">
             <button
-              className="rounded-full px-4 py-2 text-sm"
+              className={`rounded-full px-4 py-2 text-sm ${
+                selectedView === "overall"
+                  ? "bg-black text-white"
+                  : "text-gray-600 hover:text-black"
+              }`}
               onClick={() => setSelectedView("overall")}
             >
               Overall
             </button>
             <button
-              className="rounded-full px-4 py-2 text-sm"
+              className={`rounded-full px-4 py-2 text-sm ${
+                selectedView === "weekday"
+                  ? "bg-black text-white"
+                  : "text-gray-600 hover:text-black"
+              }`}
               onClick={() => setSelectedView("weekday")}
             >
               Weekday
             </button>
             <button
-              className="rounded-full px-4 py-2 text-sm"
+              className={`rounded-full px-4 py-2 text-sm ${
+                selectedView === "weekend"
+                  ? "bg-black text-white"
+                  : "text-gray-600 hover:text-black"
+              }`}
               onClick={() => setSelectedView("weekend")}
             >
               Weekend
@@ -60,6 +75,7 @@ export default function TimeUseChart() {
           <p>Selected view: {selectedView}</p>
           <p>Categories in this view: {selectedData.length}</p>
           <p>Largest category: {maxMinutes} minutes</p>
+          <p>Total hours: {totalHours}</p>
 
           {/* Bar chart */}
           <div className="mt-6 max-w-3xl">
