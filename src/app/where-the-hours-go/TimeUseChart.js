@@ -25,6 +25,32 @@ export default function TimeUseChart() {
   const totalHours = selectedData
     ? d3.sum(selectedData, (item) => item.averageMinutes) / 60
     : 0;
+  const dayWidthScale = d3.scaleLinear().domain([0, 1440]).range([0, 100]);
+  const categoryColors = [
+    "#8E7D8A", // muted mauve
+    "#C58F7B", // dusty terracotta
+    "#7F9E8A", // sage green
+    "#D0B06F", // muted ochre
+    "#6F8FAF", // dusty blue
+    "#9C86B8", // soft purple
+    "#D88C7A", // salmon
+    "#6FA6A1", // teal
+    "#B5946F", // warm tan
+    "#8E8E8E", // gray
+    "#9EBB7A", // olive green
+    "#C47F98", // dusty rose
+    "#6E8E83", // deep sage
+    "#C9A66B", // golden tan
+    "#7C91B6", // slate blue
+    "#A97C73", // muted brick
+    "#6F9BAA", // blue teal
+    "#A97FA6", // plum
+  ];
+
+  const colorScale = d3
+    .scaleOrdinal()
+    .domain(timeUseData?.overall.map((item) => item.category) ?? [])
+    .range(categoryColors);
   const widthScale = d3.scaleLinear().domain([0, maxMinutes]).range([0, 100]);
 
   // Page output
@@ -77,20 +103,35 @@ export default function TimeUseChart() {
           <p>Largest category: {maxMinutes} minutes</p>
           <p>Total hours: {totalHours}</p>
 
+          {/* 24-hour ribbon */}
+          <div className="mt-6 flex h-12 max-w-3xl overflow-hidden rounded-full bg-gray-100">
+            {selectedData.map((item) => (
+              <div
+                key={item.category}
+                className="h-full"
+                style={{
+                  width: `${dayWidthScale(item.averageMinutes)}%`,
+                  backgroundColor: colorScale(item.category),
+                }}
+              />
+            ))}
+          </div>
+
           {/* Bar chart */}
           <div className="mt-6 max-w-3xl">
             {selectedData.map((item) => (
               <div key={item.category} className="mb-4">
-                <div className="mb-1 flex justify-between gap-4 text-cm">
+                <div className="mb-1 flex justify-between gap-4 text-sm">
                   <span>{item.category}</span>
                   <span>{item.averageMinutes} minutes</span>
                 </div>
 
                 <div className="h-5 rounded-full bg-gray-200">
                   <div
-                    className="h-full rounded-full bg-black"
+                    className="h-full rounded-full"
                     style={{
                       width: `${widthScale(item.averageMinutes)}%`,
+                      backgroundColor: colorScale(item.category),
                     }}
                   />
                 </div>
