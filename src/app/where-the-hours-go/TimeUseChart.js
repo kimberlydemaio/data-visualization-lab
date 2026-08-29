@@ -7,6 +7,7 @@ export default function TimeUseChart() {
   // State
   const [timeUseData, setTimeUseData] = useState(null);
   const [selectedView, setSelectedView] = useState("overall");
+  const [hoveredCategory, setHoveredCategory] = useState(null);
 
   // Load process time-use data
   useEffect(() => {
@@ -109,6 +110,8 @@ export default function TimeUseChart() {
               <div
                 key={item.category}
                 className="h-full"
+                onMouseEnter={() => setHoveredCategory(item.category)}
+                onMouseLeave={() => setHoveredCategory(null)}
                 style={{
                   width: `${dayWidthScale(item.averageMinutes)}%`,
                   backgroundColor: colorScale(item.category),
@@ -120,7 +123,12 @@ export default function TimeUseChart() {
           {/* Bar chart */}
           <div className="mt-6 max-w-3xl">
             {selectedData.map((item) => (
-              <div key={item.category} className="mb-4">
+              <div
+                key={item.category}
+                className={`mb-4 rounded-lg p-2 transition ${
+                  hoveredCategory === item.category ? "bg-gray-100" : ""
+                }`}
+              >
                 <div className="mb-1 flex justify-between gap-4 text-sm">
                   <span>{item.category}</span>
                   <span>{item.averageMinutes} minutes</span>
