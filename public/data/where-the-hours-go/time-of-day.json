@@ -1,0 +1,7034 @@
+[
+  {
+    "bucketStart": 1200,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 88.7685380026375
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.673597798850636
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.5439583996038486
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 6.627914834235712
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.3241993263220637
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.510332010934184
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.2757456215542807
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.02028238179886206
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.12622188524144695
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.32548257428232324
+      },
+      {
+        "category": "Education",
+        "percent": 0.20987057606188247
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.05082608447768255
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.4600010952743837
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.0401687392728405
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.04286066945234549
+      }
+    ],
+    "clockMinutes": 0,
+    "timeLabel": "12:00 AM"
+  },
+  {
+    "bucketStart": 1215,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 89.77455808928444
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.40277194093421076
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 5.898539784785931
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.5629509328906772
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.41187761914065646
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.2173265026421723
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.6633179935569383
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.08279162294749945
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.0168052853250192
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.30788738585318925
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.04979574542823859
+      },
+      {
+        "category": "Education",
+        "percent": 0.2005695666848157
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3154607401708313
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.07229595804387481
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.023050832311485005
+      }
+    ],
+    "clockMinutes": 15,
+    "timeLabel": "12:15 AM"
+  },
+  {
+    "bucketStart": 1230,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 91.39706363978395
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.33841059996295947
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 4.88803189215207
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.6204902719926175
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.2954763494272677
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.04209928241836567
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.08416089382553497
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.43869246922356825
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.0060221651346504925
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.15024894953531398
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.15233239372313367
+      },
+      {
+        "category": "Education",
+        "percent": 0.20056956668481574
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3607132330292726
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.01051099924930435
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168445
+      }
+    ],
+    "clockMinutes": 30,
+    "timeLabel": "12:30 AM"
+  },
+  {
+    "bucketStart": 1245,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 91.78783167718481
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 4.736263423979594
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.657553341834062
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.266686328758373
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.025109147370590647
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.11850998277910892
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.38887386757828013
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.11134765192650996
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.19823021355255752
+      },
+      {
+        "category": "Education",
+        "percent": 0.2005695666848157
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3469190798121476
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.010510999249304348
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.13641742543267926
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168442
+      }
+    ],
+    "clockMinutes": 45,
+    "timeLabel": "12:45 AM"
+  },
+  {
+    "bucketStart": 1260,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 93.58007250661109
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 3.060744042630347
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.5147542007371868
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.3774551724200927
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.22329635617288976
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.3690950069347921
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.01291060271327951
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.19782480734013308
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.11355611233146769
+      },
+      {
+        "category": "Education",
+        "percent": 0.08229323996310184
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3633507837943922
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.06085721046658299
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.020156321582888468
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.0084563424445996
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168442
+      }
+    ],
+    "clockMinutes": 60,
+    "timeLabel": "1:00 AM"
+  },
+  {
+    "bucketStart": 1275,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 93.9898129958127
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.959668112342038
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.467001637513388
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.25577047199823877
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.18511896281618614
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.3949173027734764
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.0063503635920371905
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.11348861855204043
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.08335834100708328
+      },
+      {
+        "category": "Education",
+        "percent": 0.08229323996310178
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3749383224174581
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.05491200689077434
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.017192330464332307
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168431
+      }
+    ],
+    "clockMinutes": 75,
+    "timeLabel": "1:15 AM"
+  },
+  {
+    "bucketStart": 1290,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 94.61719001574475
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.42045447278838
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.4163915203267163
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.2275362150196814
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.24282894059245327
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.4305449418217855
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.006350363592037192
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.10221833025721203
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.07115979634977217
+      },
+      {
+        "category": "Education",
+        "percent": 0.07215664165755722
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.30669260721025005
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.06381017193813544
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.007488688844077751
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168435
+      }
+    ],
+    "clockMinutes": 90,
+    "timeLabel": "1:30 AM"
+  },
+  {
+    "bucketStart": 1305,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 94.9186379882668
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.4356378292826752
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.4008358250479287
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.15867166388328077
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.4676053798155896
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.0063503635920371965
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.1340303509199714
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.06008058229604972
+      },
+      {
+        "category": "Education",
+        "percent": 0.04437649075255977
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.2038554273429124
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.06994356601623763
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.0029020051097966297
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.06875959559991736
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.013135638217098521
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.015177293857168445
+      }
+    ],
+    "clockMinutes": 105,
+    "timeLabel": "1:45 AM"
+  },
+  {
+    "bucketStart": 1320,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.37953434374373
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.0020389102549623
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.1202496182542034
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.4182082071177897
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.39378174486757134
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.0008467151456049591
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.18916546462573341
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.25809450656231353
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.15823945158389602
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.05154338378193118
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.0017112936434004098
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.0046068783125832015
+      },
+      {
+        "category": "Education",
+        "percent": 0.02197948210628686
+      }
+    ],
+    "clockMinutes": 120,
+    "timeLabel": "2:00 AM"
+  },
+  {
+    "bucketStart": 1335,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.73171747154262
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.778372873780854
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.1732571459783216
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.3638085692043254
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.3606941868342403
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.19233822952391968
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.16654592778568797
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.14718075561276778
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.04747057097961435
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.002566940465100614
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.004606878312583201
+      },
+      {
+        "category": "Education",
+        "percent": 0.021979482106286852
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.00946096787365523
+      }
+    ],
+    "clockMinutes": 135,
+    "timeLabel": "2:15 AM"
+  },
+  {
+    "bucketStart": 1350,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.88725580715159
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.6794838900197988
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.2200508722609718
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.22316405489072585
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.47674073619449686
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.0528918273455114
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.14670106128940677
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.12594877122800757
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.1137476873438928
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.03417021604084291
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.0046068783125832015
+      },
+      {
+        "category": "Education",
+        "percent": 0.02197948210628686
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.0037977479422441956
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.009460967873655232
+      }
+    ],
+    "clockMinutes": 150,
+    "timeLabel": "2:30 AM"
+  },
+  {
+    "bucketStart": 1365,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.96536559533074
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.7369337911993763
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.232867791909983
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.1589171655202306
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.38114299584551686
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.0528918273455114
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.08648486356817107
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.208322868366599
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.10262527149123704
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.0046068783125832015
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.033314569219142706
+      },
+      {
+        "category": "Education",
+        "percent": 0.02197948210628686
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.011393243826732586
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.0031536559578850777
+      }
+    ],
+    "clockMinutes": 165,
+    "timeLabel": "2:45 AM"
+  },
+  {
+    "bucketStart": 1380,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.86150849364539
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.1587786045587962
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.40352020221033147
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.6143725936154805
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.259733841111321
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.1275836247991167
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.05326716821526565
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.3585243214389558
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.08450006563313978
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.027503239866080623
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.023945190270092495
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.01302471109696774
+      },
+      {
+        "category": "Education",
+        "percent": 0.013737943539076487
+      }
+    ],
+    "clockMinutes": 180,
+    "timeLabel": "3:00 AM"
+  },
+  {
+    "bucketStart": 1395,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.87922782754823
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.1993920220190355
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.7043254043715341
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.2486172945601974
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.32859353932142205
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.043596467073064006
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.3004466425997743
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.09457438567121065
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.12041251199153943
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.028894274430140473
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.0028432527779010458
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.023945190270092485
+      },
+      {
+        "category": "Education",
+        "percent": 0.01373794353907648
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.011393243826732584
+      }
+    ],
+    "clockMinutes": 195,
+    "timeLabel": "3:15 AM"
+  },
+  {
+    "bucketStart": 1410,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.60667139904136
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.3556953958191622
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.5316872345633037
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.4298253939862924
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.15103825421455747
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.10174398087720343
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.11670018083179284
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.521425389730501
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.004647680136223686
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.03894878693684034
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.0725384281472833
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.03490496368328582
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.009041724666389136
+      },
+      {
+        "category": "Education",
+        "percent": 0.013737943539076487
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.01139324382673259
+      }
+    ],
+    "clockMinutes": 210,
+    "timeLabel": "3:30 AM"
+  },
+  {
+    "bucketStart": 1425,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 95.51014716736569
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.452638258428765
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.4382151036095131
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.506433560439043
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.14596375270360262
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.09918915491433035
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.11682268411324194
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.013943040408671059
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.4736871269983986
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.03894878693684034
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.08726592395600208
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.09161425276008366
+      },
+      {
+        "category": "Education",
+        "percent": 0.013737943539076484
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.011393243826732586
+      }
+    ],
+    "clockMinutes": 225,
+    "timeLabel": "3:45 AM"
+  },
+  {
+    "bucketStart": 0,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 93.50067797578652
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.475562763406023
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.5825961568827995
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.7244571007805791
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.288327543713497
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.15115712732986336
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.5094466980348618
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.015312742447775963
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.27380818136365687
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2529109668761995
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.13587019380649465
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.03353722386157412
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.0037041923818207432
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.04438959476110277
+      },
+      {
+        "category": "Education",
+        "percent": 0.00824153856721038
+      }
+    ],
+    "clockMinutes": 240,
+    "timeLabel": "4:00 AM"
+  },
+  {
+    "bucketStart": 15,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 93.33728980595687
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.6851860507223144
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.7672269289974822
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.436674625195574
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.17564590736502314
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.2431847290219447
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.6138531566474918
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.12877923422429796
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.272866502700627
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2577445088804654
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.033537223861574095
+      },
+      {
+        "category": "Education",
+        "percent": 0.008241538567210376
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.03976978785912812
+      }
+    ],
+    "clockMinutes": 255,
+    "timeLabel": "4:15 AM"
+  },
+  {
+    "bucketStart": 30,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 91.95503175870178
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.067766026506889
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.5523936255981834
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.4504673210273564
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.2059884449107897
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.2574241719385337
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.854298975033865
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.18304302606184866
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.047958664462481
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.32082816527772234
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.03353722386157411
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.019203915766890536
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.004047354425754417
+      },
+      {
+        "category": "Education",
+        "percent": 0.008241538567210377
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.03976978785912814
+      }
+    ],
+    "clockMinutes": 270,
+    "timeLabel": "4:30 AM"
+  },
+  {
+    "bucketStart": 45,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 91.56981169148568
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.333306788888963
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.6405050057621318
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.27695872191333043
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.2562945305514367
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.835740153410026
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.29479169032114116
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.0786866642731123
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.3333042481306063
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2921156510930539
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.03353722386157411
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.005331308001706603
+      },
+      {
+        "category": "Education",
+        "percent": 0.00984653444809574
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.03976978785912813
+      }
+    ],
+    "clockMinutes": 285,
+    "timeLabel": "4:45 AM"
+  },
+  {
+    "bucketStart": 60,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 88.16903096355828
+      },
+      {
+        "category": "Household activities",
+        "percent": 2.514016152131178
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 1.9979470149736716
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.9686486477419978
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.0321018994222766
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.5605506844169436
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.37813116060969487
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.28057939932750486
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.658521913790104
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.006343622087442959
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2773511080227738
+      },
+      {
+        "category": "Education",
+        "percent": 0.08741985884684327
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.016982454271749367
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.03337735317889274
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.0063207977286777635
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.012676969891970563
+      }
+    ],
+    "clockMinutes": 300,
+    "timeLabel": "5:00 AM"
+  },
+  {
+    "bucketStart": 75,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 87.5025038599881
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.3669579941439745
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.6880012445850466
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.302492789371289
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.9962957915434855
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.3699795424665964
+      },
+      {
+        "category": "Household activities",
+        "percent": 2.3566679070847982
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.2664155845606052
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.7287148182001328
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.24613367409625714
+      },
+      {
+        "category": "Education",
+        "percent": 0.08891231247265166
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.03337735317889275
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.0027837964202179666
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.0350294125732295
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.0030569494227720624
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.012676969891970568
+      }
+    ],
+    "clockMinutes": 315,
+    "timeLabel": "5:15 AM"
+  },
+  {
+    "bucketStart": 90,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 84.14302015708301
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 2.502918010445293
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.8132194718782735
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.8924562882263323
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.5002638756912428
+      },
+      {
+        "category": "Household activities",
+        "percent": 3.4160342662643535
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.295802717931097
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.4214384076579033
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.3050559149908906
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.3837796544195339
+      },
+      {
+        "category": "Education",
+        "percent": 0.11201593905890961
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.04893059783160573
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.10783837732941667
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.03332851969274328
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.011220831607439048
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.012676969891970563
+      }
+    ],
+    "clockMinutes": 330,
+    "timeLabel": "5:30 AM"
+  },
+  {
+    "bucketStart": 105,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 82.7700513386794
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 3.254127848650846
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.8293518098914097
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 4.665685815309753
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.3945002072679946
+      },
+      {
+        "category": "Household activities",
+        "percent": 2.945135707942401
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.3957745706225819
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.480073773838231
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.4054409216644779
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.34344387828536344
+      },
+      {
+        "category": "Education",
+        "percent": 0.19725252419830192
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.22868053999032198
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.01605796989136264
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.021385666959503905
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.04036045691609017
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.012676969891970563
+      }
+    ],
+    "clockMinutes": 345,
+    "timeLabel": "5:45 AM"
+  },
+  {
+    "bucketStart": 120,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 74.37446725315662
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 3.9571429058795573
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.361815329023792
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 6.202316805587625
+      },
+      {
+        "category": "Household activities",
+        "percent": 5.081110312100539
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 2.448172527670809
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5402898100071611
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.7464978693800132
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.0955699917969546
+      },
+      {
+        "category": "Traveling",
+        "percent": 3.3112704841048703
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.053831150707600126
+      },
+      {
+        "category": "Education",
+        "percent": 0.3340009646775467
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.12298716796331056
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.043748999530055725
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.011606145995721281
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.26178395016059325
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.05338833225719979
+      }
+    ],
+    "clockMinutes": 360,
+    "timeLabel": "6:00 AM"
+  },
+  {
+    "bucketStart": 135,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 72.25391621954974
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.3517320099820864
+      },
+      {
+        "category": "Traveling",
+        "percent": 3.3445880565388797
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 4.804028716114616
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 7.061753889025231
+      },
+      {
+        "category": "Household activities",
+        "percent": 4.588692035217277
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 2.835422149364415
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5304879815684537
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.3838933698907148
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.8268157106464881
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.04432686365382254
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.07028438818022333
+      },
+      {
+        "category": "Education",
+        "percent": 0.3610366715990959
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.15397270899252072
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.2834842898720827
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.034818437987163914
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.07074650181719765
+      }
+    ],
+    "clockMinutes": 375,
+    "timeLabel": "6:15 AM"
+  },
+  {
+    "bucketStart": 150,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 65.1001789091234
+      },
+      {
+        "category": "Household activities",
+        "percent": 6.7267198378720705
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.66048119328468
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.351491888761762
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.1474590283371864
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 5.487222351386687
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 8.316572186760814
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.463507831763723
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.04401972871934
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.15461779534124356
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.07834275207834719
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.09368539910302955
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5553269667248875
+      },
+      {
+        "category": "Education",
+        "percent": 0.43239858524802244
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.2121507756649496
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.14100633184270667
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.034818437987163886
+      }
+    ],
+    "clockMinutes": 390,
+    "timeLabel": "6:30 AM"
+  },
+  {
+    "bucketStart": 165,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 63.29510399071212
+      },
+      {
+        "category": "Household activities",
+        "percent": 6.018393024909853
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.2821497320248243
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 5.937283937872005
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.516296663395963
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 9.916673188955995
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.2515703483991576
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.4475580854460026
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3055968095356985
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.49519054531296514
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.08764059753586917
+      },
+      {
+        "category": "Education",
+        "percent": 0.6464905222438131
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.19227327069879893
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.17794089458840373
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.1301819872342075
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.2602578925874226
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.03481843798716389
+      },
+      {
+        "category": "Household services",
+        "percent": 0.004580070559768145
+      }
+    ],
+    "clockMinutes": 405,
+    "timeLabel": "6:45 AM"
+  },
+  {
+    "bucketStart": 180,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 51.15957945951881
+      },
+      {
+        "category": "Household activities",
+        "percent": 9.796293861317842
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 12.209572261520151
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 6.903872212800105
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.816362233591453
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.31327097750678
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.4632094634578245
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.068675614849208
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.398543125668149
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.45469428872216805
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.08621692215374206
+      },
+      {
+        "category": "Education",
+        "percent": 1.161343570831998
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.32550523259849834
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.16796684230453882
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.3402749712844152
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.2929304180475408
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.034818437987163935
+      },
+      {
+        "category": "Household services",
+        "percent": 0.006870105839652224
+      }
+    ],
+    "clockMinutes": 420,
+    "timeLabel": "7:00 AM"
+  },
+  {
+    "bucketStart": 195,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 50.02739192171488
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.5026260937006541
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 13.63577284197644
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 7.188974231314768
+      },
+      {
+        "category": "Household activities",
+        "percent": 8.927465972783315
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.735018671940466
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.157802188771147
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.5039761302981343
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.832875270014034
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.1045528862658483
+      },
+      {
+        "category": "Education",
+        "percent": 1.5666888020948826
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.32393128451312153
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.18800579399921905
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.43001301611227394
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.44146729036236254
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.38025301975561765
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.03481843798716393
+      },
+      {
+        "category": "Household services",
+        "percent": 0.018366146395671176
+      }
+    ],
+    "clockMinutes": 435,
+    "timeLabel": "7:15 AM"
+  },
+  {
+    "bucketStart": 210,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 44.50863013968732
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.9526623132841054
+      },
+      {
+        "category": "Household activities",
+        "percent": 9.489419098197338
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 7.974311647864973
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 15.90851134574542
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.757746880529918
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.5032125352679353
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.706344004230017
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.20401715656591335
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2933041240876841
+      },
+      {
+        "category": "Household services",
+        "percent": 0.026018218980533102
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.184125281940117
+      },
+      {
+        "category": "Education",
+        "percent": 1.6903778300986878
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.3628724444208241
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.48510301598348365
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.4491807054240576
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.46934481970451536
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.034818437987163914
+      }
+    ],
+    "clockMinutes": 450,
+    "timeLabel": "7:30 AM"
+  },
+  {
+    "bucketStart": 225,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 42.82428591718691
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.719691803305373
+      },
+      {
+        "category": "Household activities",
+        "percent": 8.776078497581597
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 8.62400269575685
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 18.083191097172975
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.2844127525173334
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.2785847200473217
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.4859346414588086
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.2632005610429482
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2714038430585737
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.5301957892417016
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5465155859409602
+      },
+      {
+        "category": "Household services",
+        "percent": 0.030706374515690565
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.2241649276263738
+      },
+      {
+        "category": "Education",
+        "percent": 2.061348231308807
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.45585333610446066
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.5056107881461721
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.034818437987163914
+      }
+    ],
+    "clockMinutes": 465,
+    "timeLabel": "7:45 AM"
+  },
+  {
+    "bucketStart": 240,
+    "categories": [
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 9.337779308565935
+      },
+      {
+        "category": "Personal care",
+        "percent": 32.80695026076454
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 21.29817862784354
+      },
+      {
+        "category": "Household activities",
+        "percent": 11.754302496064042
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 7.162089776327715
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.862868266787453
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9253131276311803
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.4659360815397844
+      },
+      {
+        "category": "Education",
+        "percent": 2.6507460408747603
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.32470685690805673
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.7912969166921625
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.466085147355368
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.6349780494899655
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.3901036329718653
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.5569108029235197
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.4849203627763368
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.03481843798716388
+      },
+      {
+        "category": "Household services",
+        "percent": 0.052015806496604595
+      }
+    ],
+    "clockMinutes": 480,
+    "timeLabel": "8:00 AM"
+  },
+  {
+    "bucketStart": 255,
+    "categories": [
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 10.000390853196421
+      },
+      {
+        "category": "Personal care",
+        "percent": 31.8494303697721
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 22.580252793767254
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 6.5714380706467175
+      },
+      {
+        "category": "Household activities",
+        "percent": 11.559879595495056
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.984010441182429
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.653625716729485
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.7393829468342857
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.1764527110865397
+      },
+      {
+        "category": "Education",
+        "percent": 3.010337293286589
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.6674224672846956
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3188607793108285
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.24711055484237582
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.4545782278398833
+      },
+      {
+        "category": "Household services",
+        "percent": 0.05038225026410858
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.6725270031019506
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.46391792535922666
+      }
+    ],
+    "clockMinutes": 495,
+    "timeLabel": "8:15 AM"
+  },
+  {
+    "bucketStart": 270,
+    "categories": [
+      {
+        "category": "Traveling",
+        "percent": 6.368672652509496
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 24.62201552094526
+      },
+      {
+        "category": "Personal care",
+        "percent": 27.70606580134003
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.649896223509721
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 10.717707559594757
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.246654579888142
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9513324931992215
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.1013750921871215
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.7373745211459073
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.2465176195221592
+      },
+      {
+        "category": "Education",
+        "percent": 3.1115257311630766
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.221363591959899
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.3958313391520227
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.5099483291785012
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.7123013055381799
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.5747543909627986
+      },
+      {
+        "category": "Household services",
+        "percent": 0.12198620223086293
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.004677045972834463
+      }
+    ],
+    "clockMinutes": 510,
+    "timeLabel": "8:30 AM"
+  },
+  {
+    "bucketStart": 285,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 26.296901968702652
+      },
+      {
+        "category": "Personal care",
+        "percent": 26.3212381860031
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.1081924116935085
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 11.417124323475274
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.483724544348988
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9418420763399196
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.869959405217553
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.252519679245363
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.9374003845275626
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.0724312427623617
+      },
+      {
+        "category": "Education",
+        "percent": 3.516259375105028
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.1680815154581015
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.34526026951692873
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6881896523949446
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.8084190052476965
+      },
+      {
+        "category": "Household services",
+        "percent": 0.12998137435594798
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.6424745856050492
+      }
+    ],
+    "clockMinutes": 525,
+    "timeLabel": "8:45 AM"
+  },
+  {
+    "bucketStart": 300,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 27.092104755989027
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.099442150697747
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.740287882110999
+      },
+      {
+        "category": "Education",
+        "percent": 3.6110458970625396
+      },
+      {
+        "category": "Personal care",
+        "percent": 19.725177890519298
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 12.460518801881518
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 6.182754448883668
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.4516111686003335
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.1293575759568393
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.6813989687029338
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.1827678448428
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.986215494825375
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.237938457063066
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.44056192075429695
+      },
+      {
+        "category": "Household services",
+        "percent": 0.13119242151633778
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.0009732200351404
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8466511005580685
+      }
+    ],
+    "clockMinutes": 540,
+    "timeLabel": "9:00 AM"
+  },
+  {
+    "bucketStart": 315,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.489026836093085
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.166776747760428
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.873350023631352
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.478280251956406
+      },
+      {
+        "category": "Education",
+        "percent": 3.8132447921255563
+      },
+      {
+        "category": "Personal care",
+        "percent": 18.79820043626421
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.025855935441347
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 13.10537462434349
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.6480866291593412
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.1773362335663875
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7481017595441856
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.2339398540204738
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.9718194654944687
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2710771053239989
+      },
+      {
+        "category": "Household services",
+        "percent": 0.17129754022795626
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8886816368254705
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.1030476313833217
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.036502496838525564
+      }
+    ],
+    "clockMinutes": 555,
+    "timeLabel": "9:15 AM"
+  },
+  {
+    "bucketStart": 330,
+    "categories": [
+      {
+        "category": "Eating and drinking",
+        "percent": 4.640719796679083
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.4969347567606402
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.90760278286758
+      },
+      {
+        "category": "Education",
+        "percent": 4.076537776179682
+      },
+      {
+        "category": "Personal care",
+        "percent": 15.975855534883824
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.939766048365202
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 13.959661116522934
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.9235229218472063
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.035920560069057
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.76580235213134
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8049546251189171
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.3547917655504442
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.4131086989263726
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4353947688960738
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.062402968954873
+      },
+      {
+        "category": "Household services",
+        "percent": 0.19385980107609269
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9376056434066335
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.0755580817640776
+      }
+    ],
+    "clockMinutes": 570,
+    "timeLabel": "9:30 AM"
+  },
+  {
+    "bucketStart": 345,
+    "categories": [
+      {
+        "category": "Eating and drinking",
+        "percent": 3.989558792160877
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 30.006546266955542
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.46557848663238016
+      },
+      {
+        "category": "Education",
+        "percent": 4.266879611087788
+      },
+      {
+        "category": "Personal care",
+        "percent": 15.350479077129547
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.19002822663155
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 14.856209759279443
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.9966738966271176
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.7408256120525225
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.811057047333935
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8944924184600757
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.3739540882869021
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.2707712082392284
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.454741260039744
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.1474796825206413
+      },
+      {
+        "category": "Household services",
+        "percent": 0.1331551989881878
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9688405171994225
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.08272885037508049
+      }
+    ],
+    "clockMinutes": 585,
+    "timeLabel": "9:45 AM"
+  },
+  {
+    "bucketStart": 360,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.71742631232493
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5529866584225563
+      },
+      {
+        "category": "Education",
+        "percent": 4.4117742291932
+      },
+      {
+        "category": "Personal care",
+        "percent": 11.010091455011825
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.39325962656322
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.008791431567331
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.80562694547644
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.2795165548021243
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2526804728416652
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 15.67779479829847
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.4190135119041536
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.2521518315158704
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.163838563497147
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.5707373349259228
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.1831194994206333
+      },
+      {
+        "category": "Household services",
+        "percent": 0.174991539027117
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.028223213030957
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.09797602217645134
+      }
+    ],
+    "clockMinutes": 600,
+    "timeLabel": "10:00 AM"
+  },
+  {
+    "bucketStart": 375,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.677650008544244
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5424942714420169
+      },
+      {
+        "category": "Education",
+        "percent": 4.272903163298901
+      },
+      {
+        "category": "Personal care",
+        "percent": 10.692995042509903
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.884916081178954
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 15.87303967234926
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.226593884118564
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7715365452390276
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.552396904787558
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2267046510924229
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.901374390928886
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.4587592690756126
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.3089829992919797
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.666275091105113
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.5512908191668178
+      },
+      {
+        "category": "Household services",
+        "percent": 0.24442761998693824
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0021016172019683
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.14555796868184584
+      }
+    ],
+    "clockMinutes": 615,
+    "timeLabel": "10:15 AM"
+  },
+  {
+    "bucketStart": 390,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.825405843661674
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5265311659278995
+      },
+      {
+        "category": "Education",
+        "percent": 4.501440312477528
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.218306783406541
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 16.530434646189764
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.479767342623967
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9514903035638259
+      },
+      {
+        "category": "Personal care",
+        "percent": 9.848845979955822
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.836369131036139
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.1125316592053172
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.522907331890204
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.201805938734461
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.5341741697340217
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.91570222662565
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.5469382662305085
+      },
+      {
+        "category": "Household services",
+        "percent": 0.25333024501412843
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0488544664329575
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.14516418728961555
+      }
+    ],
+    "clockMinutes": 630,
+    "timeLabel": "10:30 AM"
+  },
+  {
+    "bucketStart": 405,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 30.649203698383033
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.4993759598190786
+      },
+      {
+        "category": "Education",
+        "percent": 4.479044828506475
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.243725867035881
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 16.91870520062408
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.125770318935604
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.0468349145480316
+      },
+      {
+        "category": "Personal care",
+        "percent": 9.466891963811491
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.9430910306542355
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.0643808144097198
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.227576743171236
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.5462174902886998
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.2927947117784202
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.5749125172239173
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.5055408907770649
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0574818521271852
+      },
+      {
+        "category": "Household services",
+        "percent": 0.20824929924582028
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.15020189866005124
+      }
+    ],
+    "clockMinutes": 645,
+    "timeLabel": "10:45 AM"
+  },
+  {
+    "bucketStart": 420,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.07346112496047
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.602497341715378
+      },
+      {
+        "category": "Education",
+        "percent": 4.406685691215471
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 6.2991988509184
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 16.80244405228058
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.015992409368828
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.8219562986522035
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.2285869567201635
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.338367513965807
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.0389531884636196
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.197206850372042
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.6045893782443783
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.1308413318906274
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.6385177994763622
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.4897325906093408
+      },
+      {
+        "category": "Household services",
+        "percent": 0.19773631735512096
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9790301879438468
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.13420211584734318
+      }
+    ],
+    "clockMinutes": 660,
+    "timeLabel": "11:00 AM"
+  },
+  {
+    "bucketStart": 435,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.478852552843588
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5219141235051881
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.062086831908427
+      },
+      {
+        "category": "Education",
+        "percent": 4.562403828441051
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 6.1235179681147525
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 17.537330186234605
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.1316226343307458
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.610487138004618
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.2226848485742603
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.1748844542863468
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.6117241038207406
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.0977965819362197
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.842233147690664
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.6605029267359974
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.040609035406445
+      },
+      {
+        "category": "Household services",
+        "percent": 0.22247181484995812
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9608395637853105
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.13803825953112303
+      }
+    ],
+    "clockMinutes": 675,
+    "timeLabel": "11:15 AM"
+  },
+  {
+    "bucketStart": 450,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.133741379370836
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.606597720527297
+      },
+      {
+        "category": "Education",
+        "percent": 4.7500572466000826
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 18.173757197967003
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.804374386151867
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.1202399005507953
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.296662002594396
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.4058284187486265
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.969417833049361
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4859600572786875
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 7.009368763790677
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.5387403050995447
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.7661543397436241
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9934665477401062
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.4358186559854388
+      },
+      {
+        "category": "Household services",
+        "percent": 0.3093037008487532
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.0685015102105546
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.13201003374232625
+      }
+    ],
+    "clockMinutes": 690,
+    "timeLabel": "11:30 AM"
+  },
+  {
+    "bucketStart": 465,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.321319136988627
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.098263311858384
+      },
+      {
+        "category": "Education",
+        "percent": 4.881557322294937
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 18.62433373200587
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.1113477338644562
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.232501072950898
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.611361010768394
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 7.250883755105235
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9866715743946657
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.8015213642900045
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3950337371702144
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.4827505766675126
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.49553884847187313
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.3232569666603395
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9507775279214987
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.0162151987449348
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.12064746095420094
+      },
+      {
+        "category": "Household services",
+        "percent": 0.2960196688879342
+      }
+    ],
+    "clockMinutes": 705,
+    "timeLabel": "11:45 AM"
+  },
+  {
+    "bucketStart": 480,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 22.74939066898195
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.695052305187954
+      },
+      {
+        "category": "Education",
+        "percent": 4.031446522475514
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.881801005090752
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8210791259476732
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 13.679201569986201
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.0095748481315994
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 17.799706825014262
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.2138488431419168
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.6609119132638073
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3267496773265475
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.755161579219849
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.449051381892623
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.8202808128052137
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.9750249616007002
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8479610066661333
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.10275780504664292
+      },
+      {
+        "category": "Household services",
+        "percent": 0.18099914822067734
+      }
+    ],
+    "clockMinutes": 720,
+    "timeLabel": "12:00 PM"
+  },
+  {
+    "bucketStart": 495,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 23.460488526297866
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.927248056621025
+      },
+      {
+        "category": "Education",
+        "percent": 4.428635126068806
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7776534771716762
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 13.652890468101992
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9090558904159132
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 19.994742534327063
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.760449125439817
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9197549542360144
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.7836508023519775
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.7035720341858862
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3803924518796942
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.572146962160179
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.7025675300439911
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.9062526878843699
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.902473572550684
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.06932873983792726
+      },
+      {
+        "category": "Household services",
+        "percent": 0.14869706042513628
+      }
+    ],
+    "clockMinutes": 735,
+    "timeLabel": "12:15 PM"
+  },
+  {
+    "bucketStart": 510,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 25.100266482690287
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.256899765664269
+      },
+      {
+        "category": "Education",
+        "percent": 4.2606674565094655
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.6990437555528487
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 11.594313917047598
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.358092173258879
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9157034863418269
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 20.928099599029412
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.381624318778258
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3199927567580283
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.306918380527006
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.8980231899489843
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.4346926091937444
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.7428759428516747
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.7504092020659464
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8139847592449101
+      },
+      {
+        "category": "Household services",
+        "percent": 0.18363845927908512
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.05475374525778833
+      }
+    ],
+    "clockMinutes": 750,
+    "timeLabel": "12:30 PM"
+  },
+  {
+    "bucketStart": 525,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 26.416778347538717
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.054918803701998
+      },
+      {
+        "category": "Education",
+        "percent": 4.159777233851526
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7615471152459173
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.464347350519709
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.13747063934712
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.8894655072894966
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 22.132997095367006
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.701906735040476
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 9.893110930496816
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3841677398825687
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8865962906798984
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.2983052170052638
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9304517759420505
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.848001278263887
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.7171601341978642
+      },
+      {
+        "category": "Household services",
+        "percent": 0.2512236168519139
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.07177418877775797
+      }
+    ],
+    "clockMinutes": 765,
+    "timeLabel": "12:45 PM"
+  },
+  {
+    "bucketStart": 540,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 27.868754645311604
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.568977106919489
+      },
+      {
+        "category": "Education",
+        "percent": 3.9341064289348227
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.6960961935498151
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.929925302662883
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.7306503999513299
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 21.40160466320674
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.948596943963891
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.798601401601341
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 9.040174533525729
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7890833460500225
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.9509848083689263
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.490448904477263
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8163134633979916
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2657120003252567
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5739448446705231
+      },
+      {
+        "category": "Household services",
+        "percent": 0.17619816702450233
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.01982684605788739
+      }
+    ],
+    "clockMinutes": 780,
+    "timeLabel": "1:00 PM"
+  },
+  {
+    "bucketStart": 555,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.016408481646305
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.21531385170741
+      },
+      {
+        "category": "Education",
+        "percent": 3.7528672390848907
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7304861204588403
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.017930431828355
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.8219785925313111
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 22.83611532465792
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.173182754626782
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 7.765714414024003
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.601675977229924
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7759478203258146
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.0454018868045956
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.6446859342737394
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8883179067915095
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.042312768792329
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.47056420680445493
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.0040062011189999965
+      },
+      {
+        "category": "Household services",
+        "percent": 0.19709008729284627
+      }
+    ],
+    "clockMinutes": 795,
+    "timeLabel": "1:15 PM"
+  },
+  {
+    "bucketStart": 570,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.450660432300968
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.9549471815355
+      },
+      {
+        "category": "Education",
+        "percent": 3.9156602013237194
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.6416764316464915
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.981405959891571
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.704809300786167
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.8818571122959048
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 23.666097343097626
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.431366997805313
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.997056132617868
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7559225285051366
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.061603735027713
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.939024867258014
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.40234918964782984
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9016302540020575
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.0726360337811012
+      },
+      {
+        "category": "Household services",
+        "percent": 0.23291114656700382
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.008385151910003419
+      }
+    ],
+    "clockMinutes": 810,
+    "timeLabel": "1:30 PM"
+  },
+  {
+    "bucketStart": 585,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 30.25054212749559
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.680802814520508
+      },
+      {
+        "category": "Education",
+        "percent": 4.0277869349493205
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.9256311767674795
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 24.130216064184726
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.7226585006490245
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.699254611816831
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.418669480746422
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 3.048922994163251
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.852031114435635
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.0984425196141623
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.8980586939558421
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7045185818206877
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.385128814782297
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9058390458243611
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.9487330611172091
+      },
+      {
+        "category": "Household services",
+        "percent": 0.2921888358511354
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.010574627305505126
+      }
+    ],
+    "clockMinutes": 825,
+    "timeLabel": "1:45 PM"
+  },
+  {
+    "bucketStart": 600,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 29.09446759329015
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.410935661499174
+      },
+      {
+        "category": "Education",
+        "percent": 3.686639506040791
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.774189165758338
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.1679915604983377
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 24.639762243083187
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.616504389464546
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.486931987800876
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.8564088988041805
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9300881882236135
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.8895453543525791
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.2203500900928557
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.8625615730864828
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.34703172951513905
+      },
+      {
+        "category": "Household services",
+        "percent": 0.277324105191798
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7212191117185736
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0010609845276492
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.01698785705173096
+      }
+    ],
+    "clockMinutes": 840,
+    "timeLabel": "2:00 PM"
+  },
+  {
+    "bucketStart": 615,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 30.044304286620406
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.226980046744917
+      },
+      {
+        "category": "Education",
+        "percent": 3.397022221076471
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.265826626549155
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.120254045351925
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.855730424731875
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 25.08918990495163
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.871321639167426
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.052963544757619
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.7989445419207284
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.008707732453372
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.1009747016557454
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.734548971216453
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0478282900039702
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8058075114469772
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.3322489488223287
+      },
+      {
+        "category": "Household services",
+        "percent": 0.2293720547470699
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.017974507781919547
+      }
+    ],
+    "clockMinutes": 855,
+    "timeLabel": "2:15 PM"
+  },
+  {
+    "bucketStart": 630,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.33361477034148
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.731734334316785
+      },
+      {
+        "category": "Education",
+        "percent": 3.159173675164891
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.029258464624618
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.7598486271384575
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.642312123524771
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 25.78249792425174
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.654831990151571
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.9140488050713595
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.0141792761906039
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.18942584484931
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.0480646212630296
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.3187979175119939
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.0521927923548704
+      },
+      {
+        "category": "Household services",
+        "percent": 0.24184399587466066
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.1186053617136116
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9959739186653294
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.013595556990916125
+      }
+    ],
+    "clockMinutes": 870,
+    "timeLabel": "2:30 PM"
+  },
+  {
+    "bucketStart": 645,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 28.718526139186316
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.441040380389637
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 26.326281392450145
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.654614674155985
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.456027876039551
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.632703961752716
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.589869790380727
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.8801862719403926
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2174505272683913
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.380114384409047
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.285174012514295
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.3312452635953566
+      },
+      {
+        "category": "Education",
+        "percent": 2.791563277479783
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 1.060336619408779
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0441460775767586
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.9755031832602769
+      },
+      {
+        "category": "Household services",
+        "percent": 0.20648088734240258
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.008735280849414414
+      }
+    ],
+    "clockMinutes": 885,
+    "timeLabel": "2:45 PM"
+  },
+  {
+    "bucketStart": 660,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 26.005993569873905
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.507882375714749
+      },
+      {
+        "category": "Traveling",
+        "percent": 9.12288669650312
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.8629752374554336
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.710786706116531
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 26.27119310522249
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.393595038552554
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.0022551521660372
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0266679367568001
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2950008412712855
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.3981745049034235
+      },
+      {
+        "category": "Education",
+        "percent": 2.2128889485655567
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.6510848056916814
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.022476583634732
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9743209862055143
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2876537251624885
+      },
+      {
+        "category": "Household services",
+        "percent": 0.25317713547350124
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.000986650730188589
+      }
+    ],
+    "clockMinutes": 900,
+    "timeLabel": "3:00 PM"
+  },
+  {
+    "bucketStart": 675,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 26.337321474478586
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.554328200535789
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.4677674877927465
+      },
+      {
+        "category": "Traveling",
+        "percent": 8.05186706613762
+      },
+      {
+        "category": "Education",
+        "percent": 2.1603284415357384
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.641712522259328
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 26.950907419270088
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8860276398737685
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.9270313160021417
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 1.069768083634469
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.6109328343537546
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.148510120271831
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.822844759378016
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.0379514487023578
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8840581251255383
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.23526790486125757
+      },
+      {
+        "category": "Household services",
+        "percent": 0.21337515578698252
+      }
+    ],
+    "clockMinutes": 915,
+    "timeLabel": "3:15 PM"
+  },
+  {
+    "bucketStart": 690,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 23.892868108256188
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.4850703578266446
+      },
+      {
+        "category": "Education",
+        "percent": 1.8500369037449287
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 27.3693091100978
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.289598521400345
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.527353830158165
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.9342694704089879
+      },
+      {
+        "category": "Traveling",
+        "percent": 9.151445692010695
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.9956038782724547
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.824262833107563
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2393088049467436
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.1322457935717662
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.9087223001747393
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9243271460120651
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.23714590997704738
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 1.0275437266761542
+      },
+      {
+        "category": "Household services",
+        "percent": 0.2108876133576993
+      }
+    ],
+    "clockMinutes": 930,
+    "timeLabel": "3:30 PM"
+  },
+  {
+    "bucketStart": 705,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 24.02967330809036
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.531123464074503
+      },
+      {
+        "category": "Education",
+        "percent": 1.7662747522968612
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 28.40448588480956
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.484273865983237
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.53874673260884
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8360551799480809
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.7600554958419825
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.798318755089833
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.8532164897469405
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4611946236912456
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.168276011679484
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9982804508767847
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.931280949773838
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.981274290815509
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.24226192961809265
+      },
+      {
+        "category": "Household services",
+        "percent": 0.21520781505484737
+      }
+    ],
+    "clockMinutes": 945,
+    "timeLabel": "3:45 PM"
+  },
+  {
+    "bucketStart": 720,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 19.612944793120533
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.888997509244735
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.478341066606149
+      },
+      {
+        "category": "Education",
+        "percent": 1.8844395073519082
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 27.76437894674235
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.840388591514329
+      },
+      {
+        "category": "Traveling",
+        "percent": 10.54146073387843
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.861827117851535
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.509066910835501
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3527002377583872
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.0670232785004425
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8191402199100714
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9451733574653789
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.965269909626054
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0636510844587852
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2653830903118215
+      },
+      {
+        "category": "Household services",
+        "percent": 0.13981364482358585
+      }
+    ],
+    "clockMinutes": 960,
+    "timeLabel": "4:00 PM"
+  },
+  {
+    "bucketStart": 735,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 19.469908311237827
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.666910624142258
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 28.505837328833678
+      },
+      {
+        "category": "Education",
+        "percent": 2.1065274514646823
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.277812970040393
+      },
+      {
+        "category": "Traveling",
+        "percent": 8.93683015914553
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.095710264910085
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.9841650614298434
+      },
+      {
+        "category": "Household services",
+        "percent": 0.11235816052712218
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.424105660764048
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4973637602725351
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.158538739158777
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8063353295361955
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.9659920464669522
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.6671395629099409
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.29844782359824473
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0260167455618971
+      }
+    ],
+    "clockMinutes": 975,
+    "timeLabel": "4:15 PM"
+  },
+  {
+    "bucketStart": 750,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 17.264061484225508
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 28.723457963511123
+      },
+      {
+        "category": "Education",
+        "percent": 2.0183805184599803
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.045568324694214
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.427766880093239
+      },
+      {
+        "category": "Traveling",
+        "percent": 9.561401903345875
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.72334055509317
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.9597835486365427
+      },
+      {
+        "category": "Household services",
+        "percent": 0.0787043565344851
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.7697488549613865
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.529588503163654
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.0768519185555117
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.852027332594949
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.838714963787884
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.6331833782118679
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0643578440904082
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.4330616700401942
+      }
+    ],
+    "clockMinutes": 990,
+    "timeLabel": "4:30 PM"
+  },
+  {
+    "bucketStart": 765,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 17.062457197931476
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 29.762704766967357
+      },
+      {
+        "category": "Education",
+        "percent": 2.054914400551016
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.099918183513239
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.894037392844588
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.6171065356517005
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.9226235974289416
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 6.523635394744767
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.100994214328842
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.6074484588650513
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.199382167420792
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7524579266224231
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.8352532258369653
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.7919000508760001
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.180731885247825
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5044657155450013
+      },
+      {
+        "category": "Household services",
+        "percent": 0.08996888562403091
+      }
+    ],
+    "clockMinutes": 1005,
+    "timeLabel": "4:45 PM"
+  },
+  {
+    "bucketStart": 780,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 12.60636345264062
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 29.37342635272741
+      },
+      {
+        "category": "Education",
+        "percent": 1.743581262580286
+      },
+      {
+        "category": "Household activities",
+        "percent": 16.146166446117547
+      },
+      {
+        "category": "Traveling",
+        "percent": 11.214395875507329
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.437748589034059
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.5369691351931007
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 8.577799196336258
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.1042557168585794
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.970606191398797
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.6610816585892678
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.762859916385637
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.6634332879487137
+      },
+      {
+        "category": "Household services",
+        "percent": 0.09644248621146805
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5711006222842566
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4739845849286113
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0597852252580522
+      }
+    ],
+    "clockMinutes": 1020,
+    "timeLabel": "5:00 PM"
+  },
+  {
+    "bucketStart": 795,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 12.283765032241662
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 31.444930452232455
+      },
+      {
+        "category": "Education",
+        "percent": 1.5262405906892202
+      },
+      {
+        "category": "Household activities",
+        "percent": 16.32558129401543
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 9.196657900663077
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.228644527976415
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.428794007317556
+      },
+      {
+        "category": "Traveling",
+        "percent": 9.639465314607444
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.006110576193577
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.662434159751622
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6700646411769843
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.4184658324395422
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5262123521270485
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.1296008539603606
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.5203058003883032
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.9268664698659772
+      },
+      {
+        "category": "Household services",
+        "percent": 0.06586019435330484
+      }
+    ],
+    "clockMinutes": 1035,
+    "timeLabel": "5:15 PM"
+  },
+  {
+    "bucketStart": 810,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 10.231996542667323
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 31.87866019497144
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 10.93673193932305
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.91838714680253
+      },
+      {
+        "category": "Traveling",
+        "percent": 9.712814217063789
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.4805309299586265
+      },
+      {
+        "category": "Household activities",
+        "percent": 17.200188371406554
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8321724667778165
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.722075920836854
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.8556199336144927
+      },
+      {
+        "category": "Education",
+        "percent": 1.4694730422935822
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7006130385541964
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.32704357513099513
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6914866296959058
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.5220122665981712
+      },
+      {
+        "category": "Household services",
+        "percent": 0.047293572511472856
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.47290021179318686
+      }
+    ],
+    "clockMinutes": 1050,
+    "timeLabel": "5:30 PM"
+  },
+  {
+    "bucketStart": 825,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 9.755477416789478
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 34.244684691083094
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 11.493913331969608
+      },
+      {
+        "category": "Household activities",
+        "percent": 16.12546149052111
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.983875551103752
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 2.1420574928618556
+      },
+      {
+        "category": "Traveling",
+        "percent": 8.202433157804819
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.367901324796186
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.0369259795574335
+      },
+      {
+        "category": "Education",
+        "percent": 1.5197063626145046
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.8628625532202571
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7365960294423698
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.7366449392216151
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.805820598522088
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4103662739815215
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5214686343988597
+      },
+      {
+        "category": "Household services",
+        "percent": 0.035653007371920266
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.018151164739504056
+      }
+    ],
+    "clockMinutes": 1065,
+    "timeLabel": "5:45 PM"
+  },
+  {
+    "bucketStart": 840,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 7.6301425660699636
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 33.21863218058578
+      },
+      {
+        "category": "Household activities",
+        "percent": 15.632120153646326
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 14.359877368436209
+      },
+      {
+        "category": "Personal care",
+        "percent": 5.752036559180873
+      },
+      {
+        "category": "Traveling",
+        "percent": 8.69584548503795
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.29646991978698667
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.2530802643108556
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.842957195186506
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.9978037032852805
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.098357344398935
+      },
+      {
+        "category": "Education",
+        "percent": 1.4482285061642008
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.5369066555154403
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7756952597050994
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.7518637691437299
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.6211239928855367
+      },
+      {
+        "category": "Household services",
+        "percent": 0.06941140015372206
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.019447676506611496
+      }
+    ],
+    "clockMinutes": 1080,
+    "timeLabel": "6:00 PM"
+  },
+  {
+    "bucketStart": 855,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 7.783127685380303
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 35.23346128735397
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.332005890804183
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 14.512996618583212
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.0582839123442165
+      },
+      {
+        "category": "Traveling",
+        "percent": 7.167711835448033
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.27818053553835287
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.7931847304026833
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.201951812045762
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.0442028108077857
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.1185776944263692
+      },
+      {
+        "category": "Education",
+        "percent": 1.465514786714886
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.486672282358784
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7927877748251919
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.919352284762673
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.7382429323998279
+      },
+      {
+        "category": "Household services",
+        "percent": 0.05429744929713058
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.019447676506611496
+      }
+    ],
+    "clockMinutes": 1095,
+    "timeLabel": "6:15 PM"
+  },
+  {
+    "bucketStart": 870,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 6.594804276172403
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 37.87719044879251
+      },
+      {
+        "category": "Household activities",
+        "percent": 14.115648964180593
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8114366231492093
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.009678629043058
+      },
+      {
+        "category": "Traveling",
+        "percent": 6.827027438116547
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 13.400522513059848
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.8380710876968485
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.2751825146442617
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.5887458330025136
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.395595747508566
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.2687030655663007
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.1909607376890479
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4087156370784293
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.8555607362926786
+      },
+      {
+        "category": "Education",
+        "percent": 1.4302456176337421
+      },
+      {
+        "category": "Household services",
+        "percent": 0.09246245386683415
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.019447676506611517
+      }
+    ],
+    "clockMinutes": 1110,
+    "timeLabel": "6:30 PM"
+  },
+  {
+    "bucketStart": 885,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 6.742133755666477
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 40.52214098407417
+      },
+      {
+        "category": "Household activities",
+        "percent": 13.41396803186075
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7360553705363957
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.2379252097183135
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 12.736290091592222
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.3325085698482024
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.0977439575394765
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.2687837741662028
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6001870613892678
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.3071661538624069
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.4391921088236264
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.5962922225063845
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4218938347824877
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.9948519802048337
+      },
+      {
+        "category": "Education",
+        "percent": 1.4597460695580757
+      },
+      {
+        "category": "Household services",
+        "percent": 0.09182431210361484
+      },
+      {
+        "category": "Government services and civic obligations",
+        "percent": 0.0012965117671074346
+      }
+    ],
+    "clockMinutes": 1125,
+    "timeLabel": "6:45 PM"
+  },
+  {
+    "bucketStart": 900,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 6.071232967926534
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 41.237890569952704
+      },
+      {
+        "category": "Household activities",
+        "percent": 12.258206958203454
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.896216391800928
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 12.298512410560948
+      },
+      {
+        "category": "Personal care",
+        "percent": 6.8626928617407295
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.23611442626003437
+      },
+      {
+        "category": "Traveling",
+        "percent": 5.8451056105492905
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6075166031208757
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.6365327242006777
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.3279601321234016
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.2015030313085335
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.8468019937754097
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.9931000866809716
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.3491690793685438
+      },
+      {
+        "category": "Education",
+        "percent": 1.2743937752741767
+      },
+      {
+        "category": "Household services",
+        "percent": 0.05705037715280796
+      }
+    ],
+    "clockMinutes": 1140,
+    "timeLabel": "7:00 PM"
+  },
+  {
+    "bucketStart": 915,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 6.160903385802211
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 44.057657337038805
+      },
+      {
+        "category": "Household activities",
+        "percent": 11.397194527278783
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8559092911366485
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 11.56264920480093
+      },
+      {
+        "category": "Personal care",
+        "percent": 7.333546747547946
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.1985122541272837
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6575924216247322
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.6376523612959821
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 3.081304502583007
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.9236519195751773
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.4254689177811788
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 1.189879553457029
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.206812314968849
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.0740324805839034
+      },
+      {
+        "category": "Education",
+        "percent": 1.1981084450410848
+      },
+      {
+        "category": "Household services",
+        "percent": 0.03912433535645409
+      }
+    ],
+    "clockMinutes": 1155,
+    "timeLabel": "7:15 PM"
+  },
+  {
+    "bucketStart": 930,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 5.914271619578592
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 46.55150427557937
+      },
+      {
+        "category": "Household activities",
+        "percent": 10.772715204469275
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.8068238534966753
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 9.551447072469223
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.610290158703963
+      },
+      {
+        "category": "Personal care",
+        "percent": 8.441410658633771
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6221282964691236
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.4860377394900406
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.8173050730316573
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.5856714278742405
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.5983116359770173
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.1230018278417737
+      },
+      {
+        "category": "Education",
+        "percent": 1.0459588264584616
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.957733154865663
+      },
+      {
+        "category": "Household services",
+        "percent": 0.032287104376179876
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.08310207068498403
+      }
+    ],
+    "clockMinutes": 1170,
+    "timeLabel": "7:30 PM"
+  },
+  {
+    "bucketStart": 945,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 5.785566983802635
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 49.288430627037016
+      },
+      {
+        "category": "Household activities",
+        "percent": 9.460477899638528
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.7985855948278195
+      },
+      {
+        "category": "Traveling",
+        "percent": 3.8415443253501964
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 8.387982816782804
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.6427027375082083
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 4.178743851021139
+      },
+      {
+        "category": "Personal care",
+        "percent": 8.767509553264457
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.4824335080325524
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.4756275892256583
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.7093814136330625
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.1484159306639625
+      },
+      {
+        "category": "Education",
+        "percent": 1.0947242804145867
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.8317695264281799
+      },
+      {
+        "category": "Household services",
+        "percent": 0.011212013059456115
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.09489134930974598
+      }
+    ],
+    "clockMinutes": 1185,
+    "timeLabel": "7:45 PM"
+  },
+  {
+    "bucketStart": 960,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 5.021400067726754
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 49.86653975938983
+      },
+      {
+        "category": "Household activities",
+        "percent": 7.328706381116625
+      },
+      {
+        "category": "Personal care",
+        "percent": 11.971654256157759
+      },
+      {
+        "category": "Traveling",
+        "percent": 4.586083496819302
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 4.349023466090543
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.208197972543549
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 8.151231489287557
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 2.098617235158815
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.1089752190730386
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.6735966901803615
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.3375801304054757
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.32509271718236665
+      },
+      {
+        "category": "Education",
+        "percent": 1.1328753815265098
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.7402300065839705
+      },
+      {
+        "category": "Household services",
+        "percent": 0.011212013059456112
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.0889837176980868
+      }
+    ],
+    "clockMinutes": 1200,
+    "timeLabel": "8:00 PM"
+  },
+  {
+    "bucketStart": 975,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 4.809039827585339
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 51.59824627102546
+      },
+      {
+        "category": "Household activities",
+        "percent": 6.571207888110823
+      },
+      {
+        "category": "Personal care",
+        "percent": 14.20800617469471
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 4.065376128978745
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2230069974517697
+      },
+      {
+        "category": "Traveling",
+        "percent": 3.6420308431869497
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 7.002239048540061
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.4431321037392848
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 1.012020800906211
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.6487515207301577
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.439136540109399
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.07763302771547079
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.2581232738996673
+      },
+      {
+        "category": "Education",
+        "percent": 1.2812549667194255
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.7095825735470758
+      },
+      {
+        "category": "Household services",
+        "percent": 0.01121201305945611
+      }
+    ],
+    "clockMinutes": 1215,
+    "timeLabel": "8:15 PM"
+  },
+  {
+    "bucketStart": 990,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 4.976704018335274
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 51.662966054133555
+      },
+      {
+        "category": "Household activities",
+        "percent": 6.101800830033057
+      },
+      {
+        "category": "Personal care",
+        "percent": 17.49376750074878
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 5.449797940286402
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.669414186640354
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.25075611343976
+      },
+      {
+        "category": "Traveling",
+        "percent": 3.2862555464781957
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.2670114034172244
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.8487173900033453
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.42443464047318347
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.3844679687937322
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.06116440089923438
+      },
+      {
+        "category": "Education",
+        "percent": 1.3997253910885328
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.2506549576198842
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.4723616576094966
+      }
+    ],
+    "clockMinutes": 1230,
+    "timeLabel": "8:30 PM"
+  },
+  {
+    "bucketStart": 1005,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 5.042636212826652
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 53.05005382976532
+      },
+      {
+        "category": "Personal care",
+        "percent": 18.924466880529177
+      },
+      {
+        "category": "Household activities",
+        "percent": 5.343685945124718
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.59636189587387
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 3.3996636869167083
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.1342568211343258
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.2694919869924284
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 1.0511995945514037
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.6101627784242316
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.8693399712981615
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.4168520052624488
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.03990180961487153
+      },
+      {
+        "category": "Education",
+        "percent": 1.531050204589089
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.26884401795740276
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.452032359139178
+      }
+    ],
+    "clockMinutes": 1245,
+    "timeLabel": "8:45 PM"
+  },
+  {
+    "bucketStart": 1020,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 4.734560505469643
+      },
+      {
+        "category": "Personal care",
+        "percent": 28.072642136964348
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.901804100670709
+      },
+      {
+        "category": "Household activities",
+        "percent": 4.907852734933522
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 46.71579976635317
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 4.140716373845529
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.9179773900809284
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.1534360724647936
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.738702433500736
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.2514750572533849
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.0435004858083151
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.9428481524574105
+      },
+      {
+        "category": "Education",
+        "percent": 1.3025182877144854
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5864370463071699
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.16084989646922868
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.42887955970661457
+      }
+    ],
+    "clockMinutes": 1260,
+    "timeLabel": "9:00 PM"
+  },
+  {
+    "bucketStart": 1035,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 4.707721241326746
+      },
+      {
+        "category": "Personal care",
+        "percent": 31.277682520171428
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.9976342597087087
+      },
+      {
+        "category": "Household activities",
+        "percent": 4.293540662952741
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 3.175676391669598
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 46.62528038010548
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.9939541245027272
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 1.0421009907863739
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 2.183841897474717
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.3049895385268981
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.04256009064514984
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.9953319982337543
+      },
+      {
+        "category": "Education",
+        "percent": 1.23017885706182
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.6648833926947697
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.15564229552484904
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.3089813586142053
+      }
+    ],
+    "clockMinutes": 1275,
+    "timeLabel": "9:15 PM"
+  },
+  {
+    "bucketStart": 1050,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.7629402783461585
+      },
+      {
+        "category": "Personal care",
+        "percent": 38.00846416519785
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.278909846454955
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 2.6943934908652682
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 42.36972482414615
+      },
+      {
+        "category": "Household activities",
+        "percent": 3.8869852738760717
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.2002082123714395
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.9382109742796966
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.736176398577219
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.7376379777852349
+      },
+      {
+        "category": "Education",
+        "percent": 1.181916843635845
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.21984533988108576
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.5223084844583057
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.07708496645009444
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.36898914004181665
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.01620378363279628
+      }
+    ],
+    "clockMinutes": 1290,
+    "timeLabel": "9:30 PM"
+  },
+  {
+    "bucketStart": 1065,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.6342609635119825
+      },
+      {
+        "category": "Personal care",
+        "percent": 41.08071324523183
+      },
+      {
+        "category": "Household activities",
+        "percent": 3.2934150041899963
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 2.1912412043162512
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 41.52194065692228
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.929407604853552
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.5922303727068723
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.524915854592907
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.233039870208046
+      },
+      {
+        "category": "Education",
+        "percent": 1.0877099336387854
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.16380816274317142
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.48825771246295124
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.9161157265024535
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.04925145384352933
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.27895712340396833
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.014735110871410167
+      }
+    ],
+    "clockMinutes": 1305,
+    "timeLabel": "9:45 PM"
+  },
+  {
+    "bucketStart": 1080,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.2823852828531717
+      },
+      {
+        "category": "Personal care",
+        "percent": 53.87987364177744
+      },
+      {
+        "category": "Household activities",
+        "percent": 2.730609548681324
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.8779390479300935
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 30.427414004636365
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.45863468729473755
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.3246014930127585
+      },
+      {
+        "category": "Traveling",
+        "percent": 2.3061560679934137
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.16496917686002
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7752119301012996
+      },
+      {
+        "category": "Education",
+        "percent": 0.9437315295943024
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.12856201218326657
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2866518125533756
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.08821726194065088
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.31030739171636373
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.014735110871410157
+      }
+    ],
+    "clockMinutes": 1320,
+    "timeLabel": "10:00 PM"
+  },
+  {
+    "bucketStart": 1095,
+    "categories": [
+      {
+        "category": "Work and work-related activities",
+        "percent": 3.212727839577536
+      },
+      {
+        "category": "Personal care",
+        "percent": 56.35266546754032
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.5146819242438725
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 30.167499769841488
+      },
+      {
+        "category": "Household activities",
+        "percent": 2.0885242796514145
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 1.0113430744757357
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.8779418030025612
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 1.0019403748959284
+      },
+      {
+        "category": "Education",
+        "percent": 0.8963979450689573
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.10673098480527442
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.4456083742608297
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.06742298011788718
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.2482294674520586
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.7322070303108507
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.26535026650406024
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.010728418251238641
+      }
+    ],
+    "clockMinutes": 1335,
+    "timeLabel": "10:15 PM"
+  },
+  {
+    "bucketStart": 1110,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 64.4770328768469
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 24.230908372974014
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.5194575671717405
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.7862814913929457
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 1.0488369290922954
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.899997705875572
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.6321776887654112
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.20119944885365362
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.7357231761943074
+      },
+      {
+        "category": "Education",
+        "percent": 0.671438718393211
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.13081375821297095
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.4335238987312339
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.1359485494024378
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.26247128946607184
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.8341885286272341
+      }
+    ],
+    "clockMinutes": 1350,
+    "timeLabel": "10:30 PM"
+  },
+  {
+    "bucketStart": 1125,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 67.94262408549632
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 22.180981741327656
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.801361272770196
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.8490531634005949
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.5128719601022702
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5601005575874105
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.1461334035251527
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.6725198398343244
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.2052146475902055
+      },
+      {
+        "category": "Education",
+        "percent": 0.6431678203625324
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.08970156102502594
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.38608463425406353
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.6753089763459482
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.22257599927713573
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.11230033710117196
+      }
+    ],
+    "clockMinutes": 1365,
+    "timeLabel": "10:45 PM"
+  },
+  {
+    "bucketStart": 1140,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 76.97516566456622
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 15.062879354248778
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.245145143142745
+      },
+      {
+        "category": "Household activities",
+        "percent": 1.1985880962922437
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5166104942824009
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.6348139861967077
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.3877372898840479
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.46263733773054305
+      },
+      {
+        "category": "Education",
+        "percent": 0.3743584112839926
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.1248315505268556
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.49187415297721404
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.24206668911998602
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.03158559019523548
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.17183510145618944
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.06589140202619412
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.013979736070641959
+      }
+    ],
+    "clockMinutes": 1380,
+    "timeLabel": "11:00 PM"
+  },
+  {
+    "bucketStart": 1155,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 78.57642451139543
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 14.207412348768159
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 2.22880363724373
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.9837115185705159
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.6304192264031371
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.3867173552453695
+      },
+      {
+        "category": "Traveling",
+        "percent": 1.0529740960639904
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.507107832964306
+      },
+      {
+        "category": "Education",
+        "percent": 0.3667393125210003
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.2283839030096616
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.5280973937536796
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.09967346145021211
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.1015295658660982
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.018247964601055756
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.07909796012010101
+      },
+      {
+        "category": "Professional and personal care services",
+        "percent": 0.004659912023547314
+      }
+    ],
+    "clockMinutes": 1395,
+    "timeLabel": "11:15 PM"
+  },
+  {
+    "bucketStart": 1170,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 82.40461071561931
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 11.440237899267004
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.8821916575875914
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.749889220018617
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5564279495004526
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.990426066518815
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.3771202928142705
+      },
+      {
+        "category": "Education",
+        "percent": 0.32054401527017734
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.40605958571714695
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.16311034177656608
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.36224183158492257
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.00957405057639745
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.1618574702897159
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.10309306691000136
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.0726158365489887
+      }
+    ],
+    "clockMinutes": 1410,
+    "timeLabel": "11:30 PM"
+  },
+  {
+    "bucketStart": 1185,
+    "categories": [
+      {
+        "category": "Personal care",
+        "percent": 84.0193764945333
+      },
+      {
+        "category": "Work and work-related activities",
+        "percent": 1.8392021956455138
+      },
+      {
+        "category": "Socializing, relaxing, and leisure",
+        "percent": 10.412582297385038
+      },
+      {
+        "category": "Household activities",
+        "percent": 0.7103855876472361
+      },
+      {
+        "category": "Telephone calls",
+        "percent": 0.5088216773615933
+      },
+      {
+        "category": "Traveling",
+        "percent": 0.644294067142652
+      },
+      {
+        "category": "Religious and spiritual activities",
+        "percent": 0.17026245084670813
+      },
+      {
+        "category": "Eating and drinking",
+        "percent": 0.3672464466126756
+      },
+      {
+        "category": "Data codes and uncodable activities",
+        "percent": 0.4386293380074238
+      },
+      {
+        "category": "Sports, exercise, and recreation",
+        "percent": 0.1491137865373161
+      },
+      {
+        "category": "Education",
+        "percent": 0.28126800232614435
+      },
+      {
+        "category": "Caring for household members",
+        "percent": 0.36627329574015177
+      },
+      {
+        "category": "Consumer purchases",
+        "percent": 0.04295715047183788
+      },
+      {
+        "category": "Caring for nonhousehold members",
+        "percent": 0.009284916615600838
+      },
+      {
+        "category": "Volunteer activities",
+        "percent": 0.04030229312682708
+      }
+    ],
+    "clockMinutes": 1425,
+    "timeLabel": "11:45 PM"
+  }
+]

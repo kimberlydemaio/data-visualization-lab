@@ -16,6 +16,35 @@ const summaryFile = path.join(
   "atussum_2025.dat",
 );
 
+const outputFile = path.join(
+  process.cwd(),
+  "public",
+  "data",
+  "where-the-hours-go",
+  "time-of-day.json",
+);
+
+const categoryNames = {
+  "01": "Personal care",
+  "02": "Household activities",
+  "03": "Caring for household members",
+  "04": "Caring for nonhousehold members",
+  "05": "Work and work-related activities",
+  "06": "Education",
+  "07": "Consumer purchases",
+  "08": "Professional and personal care services",
+  "09": "Household services",
+  10: "Government services and civic obligations",
+  11: "Eating and drinking",
+  12: "Socializing, relaxing, and leisure",
+  13: "Sports, exercise, and recreation",
+  14: "Religious and spiritual activities",
+  15: "Volunteer activities",
+  16: "Telephone calls",
+  18: "Traveling",
+  50: "Data codes and uncodable activities",
+};
+
 const activityText = fs.readFileSync(activityFile, "utf8");
 const summaryText = fs.readFileSync(summaryFile, "utf8");
 
@@ -39,6 +68,16 @@ function timeToMinutes(timeString) {
   const [hours, minutes] = timeString.split(":").map(Number);
 
   return hours * 60 + minutes;
+}
+
+function formatClockTime(minutes) {
+  const hours = Math.floor(minutes / 60);
+  const mins = minutes % 60;
+
+  const hour12 = hours % 12 || 12;
+  const period = hours < 12 ? "AM" : "PM";
+
+  return `${hour12}:${String(mins).padStart(2, "0")} ${period}`;
 }
 
 function getOverlapMinutes(activity, bucketStart) {
@@ -99,7 +138,7 @@ const bucketedData = timeBuckets.map((bucketStart) => {
   );
 
   const categoryShares = categoryTotals.map((item) => ({
-    category: item.category,
+    category: categoryNames[item.category] ?? item.category,
     percent:
       totalWeightedMinutes > 0
         ? (item.weightedMinutes / totalWeightedMinutes) * 100
@@ -112,10 +151,18 @@ const bucketedData = timeBuckets.map((bucketStart) => {
   };
 });
 
-const bucketTotals = bucketedData.map((bucket) => ({
-  bucketStart: bucket.bucketStart,
-  totalPercent: d3.sum(bucket.categories, (item) => item.percent),
-}));
+const clockData = bucketedData.map((bucket) => {
+  const clockMinutes = (bucket.bucketStart + 240) % 1440;
 
-console.dir(bucketedData.slice(0, 2), { depth: null });
-console.log(bucketTotals.slice(0, 4));
+  return {
+    ...bucket,
+    clockMinutes,
+    timeLabel: formatClockTime(clockMinutes),
+  };
+});
+
+clockData.sort((a, b) => a.clockMinutes - b.clockMinutes);
+
+fs.writeFileSync(outputFile, JSON.stringify(clockData, null, 2));
+
+console.log(`Wrote processed clock data to ${outputFile}`);
