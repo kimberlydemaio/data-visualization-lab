@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import * as d3 from "d3";
 
+// File paths
 const activityFile = path.join(
   process.cwd(),
   "data-source",
@@ -21,9 +22,10 @@ const outputFile = path.join(
   "public",
   "data",
   "where-the-hours-go",
-  "time-of-day.json",
+  "weekly-time-of-day.json",
 );
 
+// Activity category names
 const categoryNames = {
   "01": "Personal care",
   "02": "Household activities",
@@ -34,17 +36,36 @@ const categoryNames = {
   "07": "Consumer purchases",
   "08": "Professional and personal care services",
   "09": "Household services",
-  10: "Government services and civic obligations",
-  11: "Eating and drinking",
-  12: "Socializing, relaxing, and leisure",
-  13: "Sports, exercise, and recreation",
-  14: "Religious and spiritual activities",
-  15: "Volunteer activities",
-  16: "Telephone calls",
-  18: "Traveling",
-  50: "Data codes and uncodable activities",
+  "10": "Government services and civic obligations",
+  "11": "Eating and drinking",
+  "12": "Socializing, relaxing, and leisure",
+  "13": "Sports, exercise, and recreation",
+  "14": "Religious and spiritual activities",
+  "15": "Volunteer activities",
+  "16": "Telephone calls",
+  "18": "Traveling",
+  "50": "Data codes and uncodable activities",
 };
 
+// ATUS diary-day codes
+const dayNames = {
+  1: "Sunday",
+  2: "Monday",
+  3: "Tuesday",
+  4: "Wednesday",
+  5: "Thursday",
+  6: "Friday",
+  7: "Saturday",
+};
+
+// Our reel runs Monday → Sunday
+const weekDayOrder = [2, 3, 4, 5, 6, 7, 1];
+
+const weekDayIndex = new Map(
+  weekDayOrder.map((dayCode, index) => [dayCode, index]),
+);
+
+// Read and parse source files
 const activityText = fs.readFileSync(activityFile, "utf8");
 const summaryText = fs.readFileSync(summaryFile, "utf8");
 
@@ -54,6 +75,7 @@ const summaryRows = d3.csvParse(summaryText);
 console.log(`Activity rows: ${activityRows.length}`);
 console.log(`Summary rows: ${summaryRows.length}`);
 
+// Build respondent lookup
 const summaryByCaseId = new Map(
   summaryRows.map((row) => [
     row.TUCASEID,
@@ -64,12 +86,7 @@ const summaryByCaseId = new Map(
   ]),
 );
 
-function timeToMinutes(timeString) {
-  const [hours, minutes] = timeString.split(":").map(Number);
-
-  return hours * 60 + minutes;
-}
-
+// Format minutes after midnight as a readable clock time
 function formatClockTime(minutes) {
   const hours = Math.floor(minutes / 60);
   const mins = minutes % 60;
@@ -80,6 +97,7 @@ function formatClockTime(minutes) {
   return `${hour12}:${String(mins).padStart(2, "0")} ${period}`;
 }
 
+// Calculate how much of an activity falls inside a 15-minute bucket
 function getOverlapMinutes(activity, bucketStart) {
   const bucketEnd = bucketStart + 15;
 
@@ -89,8 +107,59 @@ function getOverlapMinutes(activity, bucketStart) {
   return Math.max(0, overlapEnd - overlapStart);
 }
 
+// Convert the ATUS diary day into the true calendar day
+function getCalendarDayCode(diaryDay, bucketStart) {
+  // ATUS diaries run from 4 AM to 4 AM.
+  // Minutes 1200–1440 represent midnight–4 AM on the following day.
+  if (bucketStart < 1200) {
+    return diaryDay;
+  }
+
+  return diaryDay === 7 ? 1 : diaryDay + 1;
+}
+
+// Calculate weighted category shares for one day/time bucket
+function calculateCategoryShares(activities) {
+  const activitiesByCategory = d3.group(
+    activities,
+    (activity) => activity.category,
+  );
+
+  const categoryTotals = Array.from(
+    activitiesByCategory,
+    ([category, categoryActivities]) => ({
+      category,
+      weightedMinutes: d3.sum(
+        categoryActivities,
+        (activity) => activity.overlapMinutes * activity.weight,
+      ),
+    }),
+  );
+
+  const totalWeightedMinutes = d3.sum(
+    categoryTotals,
+    (item) => item.weightedMinutes,
+  );
+
+  return categoryTotals
+    .map((item) => ({
+      category: categoryNames[item.category] ?? item.category,
+      percent:
+        totalWeightedMinutes > 0
+          ? (item.weightedMinutes / totalWeightedMinutes) * 100
+          : 0,
+    }))
+    .sort((a, b) => b.percent - a.percent)
+    .map((item, index) => ({
+      ...item,
+      rank: index + 1,
+    }));
+}
+
+// Create the 96 fifteen-minute positions in an ATUS diary day
 const timeBuckets = d3.range(0, 1440, 15);
 
+// Join activity episodes to respondent weights and diary days
 const joinedActivities = activityRows.map((row) => {
   const summary = summaryByCaseId.get(row.TUCASEID);
 
@@ -108,61 +177,67 @@ const joinedActivities = activityRows.map((row) => {
   };
 });
 
-const bucketedData = timeBuckets.map((bucketStart) => {
+// Build the continuous Monday → Sunday reel
+const weeklyData = [];
+
+for (const bucketStart of timeBuckets) {
+  const clockMinutes = (bucketStart + 240) % 1440;
+
   const activitiesInBucket = joinedActivities
-    .map((activity) => ({
-      ...activity,
-      overlapMinutes: getOverlapMinutes(activity, bucketStart),
-    }))
-    .filter((activity) => activity.overlapMinutes > 0);
+    .map((activity) => {
+      const overlapMinutes = getOverlapMinutes(activity, bucketStart);
 
-  const activitiesByCategory = d3.group(
+      if (overlapMinutes <= 0) {
+        return null;
+      }
+
+      return {
+        ...activity,
+        overlapMinutes,
+        calendarDay: getCalendarDayCode(
+          activity.diaryDay,
+          bucketStart,
+        ),
+      };
+    })
+    .filter(Boolean);
+
+  const activitiesByDay = d3.group(
     activitiesInBucket,
-    (activity) => activity.category,
+    (activity) => activity.calendarDay,
   );
 
-  const categoryTotals = Array.from(
-    activitiesByCategory,
-    ([category, activities]) => ({
-      category,
-      weightedMinutes: d3.sum(
-        activities,
-        (activity) => activity.overlapMinutes * activity.weight,
-      ),
-    }),
-  );
+  for (const dayCode of weekDayOrder) {
+    const dayActivities = activitiesByDay.get(dayCode) ?? [];
+    const dayIndex = weekDayIndex.get(dayCode);
 
-  const totalWeightedMinutes = d3.sum(
-    categoryTotals,
-    (item) => item.weightedMinutes,
-  );
+    const categories = calculateCategoryShares(dayActivities);
 
-  const categoryShares = categoryTotals.map((item) => ({
-    category: categoryNames[item.category] ?? item.category,
-    percent:
-      totalWeightedMinutes > 0
-        ? (item.weightedMinutes / totalWeightedMinutes) * 100
-        : 0,
-  }));
+    weeklyData.push({
+      frameIndex: dayIndex * 96 + clockMinutes / 15,
+      weekMinute: dayIndex * 1440 + clockMinutes,
+      dayCode,
+      dayName: dayNames[dayCode],
+      clockMinutes,
+      timeLabel: formatClockTime(clockMinutes),
+      period: clockMinutes < 720 ? "AM" : "PM",
+      categories,
+    });
+  }
+}
 
-  return {
-    bucketStart,
-    categories: categoryShares,
-  };
-});
+// Put all 672 frames into chronological reel order
+weeklyData.sort((a, b) => a.frameIndex - b.frameIndex);
 
-const clockData = bucketedData.map((bucket) => {
-  const clockMinutes = (bucket.bucketStart + 240) % 1440;
+// Write browser-ready data
+fs.writeFileSync(
+  outputFile,
+  JSON.stringify(weeklyData, null, 2),
+);
 
-  return {
-    ...bucket,
-    clockMinutes,
-    timeLabel: formatClockTime(clockMinutes),
-  };
-});
-
-clockData.sort((a, b) => a.clockMinutes - b.clockMinutes);
-
-fs.writeFileSync(outputFile, JSON.stringify(clockData, null, 2));
-
-console.log(`Wrote processed clock data to ${outputFile}`);
+console.log(`Weekly frames: ${weeklyData.length}`);
+console.log(`First frame: ${weeklyData[0].dayName} ${weeklyData[0].timeLabel}`);
+console.log(
+  `Last frame: ${weeklyData.at(-1).dayName} ${weeklyData.at(-1).timeLabel}`,
+);
+console.log(`Wrote processed weekly data to ${outputFile}`);
